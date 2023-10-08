@@ -7,7 +7,7 @@
     <img alt="kadir-ozdemir | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="http://twitter.com/ozdemirkadirr">
-    <img src="https://img.shields.io/twitter/ozdemirkadirr?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/twitter/follow/ozdemirkadirr?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/ozdmr.kadirr/" target="_blank">
     <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
