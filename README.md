@@ -1,4 +1,4 @@
-## ![thumbnail](https://i.hizliresim.com/mrpd9wf.png)
+![thumbnail](https://i.hizliresim.com/mrpd9wf.png)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kadir-ozdemir/" target="_blank">
