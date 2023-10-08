@@ -13,6 +13,12 @@
     <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <a href="https://linktr.ee/projects_kadir" target="_blank">
+    Website
+  </a>
+</p>
+
 
 
 <!--
