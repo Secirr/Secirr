@@ -1,4 +1,4 @@
-<!-- ![Intro](https://jumpshare.com/v/APs5bNcMWvdyiYwGMDU5) -->
+
 
 ![thumbnail](https://i.hizliresim.com/mrpd9wf.png)
 
@@ -23,12 +23,3 @@
 ### [⚡️ My Web Site Projects](https://linktr.ee/projects_kadir)
 
 - [Projects - 1 = Personel Page](https://kadirozdemir00.netlify.app/)
-#### - [⚡️ My Web Site Projects](https://linktr.ee/projects_kadir)
-#### - [⚡️ My Web Site Projects](https://linktr.ee/projects_kadir)
-#### - [⚡️ My Web Site Projects](https://linktr.ee/projects_kadir)
-#### - [⚡️ My Web Site Projects](https://linktr.ee/projects_kadir)
-
-
-
-
-
