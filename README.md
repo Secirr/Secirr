@@ -11,7 +11,7 @@
   </a>
   <a href="http://twitter.com/ozdemirkadirr">
     <img src="https://img.shields.io/twitter/follow/ozdemirkadirr?label=Twitter&logo=twitter&style=for-the-badge" />
-    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/ozdemirkadirr">
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/ozdemirkadirr?label=Twitter&logo=twitter&style=for-the-badge">
 
   </a>
   <a href="https://www.instagram.com/ozdmr.kadirr/" target="_blank">
