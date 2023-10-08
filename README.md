@@ -18,6 +18,7 @@
   </a>
 </p>
 
+<!--
 ### [⚡️ My Web Site Projects](https://linktr.ee/projects_kadir)
 
 - [Projects - 1 = Personel Page](https://kadirozdemir00.netlify.app/)
@@ -26,3 +27,4 @@
 - [Projects - 4 = Hotel Page](https://kadirozdemir03.netlify.app/)
 - [Projects - 5 = Film Page](https://kadirozdemir04.netlify.app/)
 - [Projects - 6 = Sports News Page](https://kadirozdemir05.netlify.app/)
+-->
