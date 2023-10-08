@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a href="https://linktr.ee/projects_kadir" target="_blank">
-    Website
+    <b> My Example Website Projects </b> 
   </a>
 </p>
 
