@@ -16,8 +16,8 @@
   <a href="https://www.instagram.com/ozdmr.kadirr/" target="_blank">
     <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/ozdmr.kadirr/" target="_blank">
-    <img alt="vaga_bond01 | Website"  src="https://img.shields.io/badge/website%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://linktr.ee/projects_kadir" target="_blank">
+    <img alt="vaga_bond01 | Website"  src="https://img.shields.io/badge/website%23E4405F.svg?&style=for-the-badge&logo=website&logoColor=white" />
   </a>
 </p>
 
