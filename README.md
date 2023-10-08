@@ -9,6 +9,10 @@
   <a href="http://twitter.com/ozdemirkadirr">
     <img src="https://img.shields.io/twitter/follow/ozdemirkadirr?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
+  <a href="http://twitter.com/ozdemirkadirr">
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fozdemirkadirr">
+  </a>
+  
   <a href="https://www.instagram.com/ozdmr.kadirr/" target="_blank">
     <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
