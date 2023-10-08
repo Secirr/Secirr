@@ -20,5 +20,7 @@
   </a>
 </p>
 
+##<a href="https://www.linkedin.com/in/kadir-ozdemir/" target="_blank"> My Projects </a>
+
 
 
