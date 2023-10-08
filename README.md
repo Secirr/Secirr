@@ -12,13 +12,12 @@
   <a href="http://twitter.com/ozdemirkadirr">
     <img src="https://img.shields.io/twitter/follow/ozdemirkadirr?label=Twitter&logo=twitter&style=for-the-badge" />
     <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/ozdemirkadirr?label=Twitter&logo=twitter&style=for-the-badge">
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fozdemirkadirr">
+
 
   </a>
   <a href="https://www.instagram.com/ozdmr.kadirr/" target="_blank">
     <img alt="vaga_bond01 | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linktr.ee/projects_kadir" target="_blank">
-    <span class="badge badge-info">Website</span>
   </a>
 </p>
 
