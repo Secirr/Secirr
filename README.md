@@ -1,5 +1,3 @@
-
-
 ![thumbnail](https://i.hizliresim.com/mrpd9wf.png)
 
 
