@@ -1,7 +1,5 @@
 ![thumbnail](https://i.hizliresim.com/mrpd9wf.png)
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kadir-ozdemir/" target="_blank">
     <img alt="kadir-ozdemir | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
