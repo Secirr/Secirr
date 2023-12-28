@@ -34,9 +34,6 @@
   -->
 
 
-<p style="filter: grayscale(100%);">
-  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=secirr&show_icons=true&locale=en&layout=compact" alt="error" />
-</p>
 
 <p><img src ="https://github-readme-stats.vercel.app/api?username=secirr&show_icons=true&theme=transparent"></p>
 
