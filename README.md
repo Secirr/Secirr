@@ -37,7 +37,7 @@
 
 <p><img src ="https://github-readme-stats.vercel.app/api?username=secirr&show_icons=true&theme=transparent"></p>
 
-<p><img width="500" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=secirr&layout=compact&theme=react&hide_border=true"></p>
+<p><img width="200" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=secirr&layout=compact&theme=react&hide_border=true"></p>
 
 
 
