@@ -33,22 +33,6 @@
 
   -->
 
-<center>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-</center>
 
 <p style="filter: grayscale(100%);">
   <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=secirr&show_icons=true&locale=en&layout=compact" alt="error" />
