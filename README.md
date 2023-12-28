@@ -50,4 +50,6 @@
 </picture>
 </center>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=secirr&show_icons=true&locale=en&layout=compact" alt="error" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=secirr&" alt="error" /></p>
 
